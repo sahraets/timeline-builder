@@ -1,0 +1,32 @@
+{
+    "title": {
+        "text": {
+            "headline": "Fortnite Timeline",
+            "text": "<p>Timeline of Fortnite</p>"
+        }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year": "2017",
+                "month": "7",
+                "day": "25"
+            },
+            "text": {
+                "headline": "Fortnite Battle Royale",
+                "text": "<p>Fortnite Battle Royale is released.</p>"
+        }
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "2",
+                "day": "20"
+            },
+            "text": {
+                "headline": "Fortnite Season 3",
+                "text": "<p>Fortnite Season 3 begins.</p>"
+            }
+        }
+    ]
+}
